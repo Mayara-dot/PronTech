@@ -2,6 +2,6 @@
 
 ## Plataforma de visualização!!
 
-### Trasnformando saúde com Tecnologia.
+### Transformando saúde com Tecnologia.
 
 #### Projeto FATEC SEBRAE

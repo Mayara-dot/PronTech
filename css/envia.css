@@ -1,0 +1,33 @@
+html,body {
+    font-family: 'Open Sans', serif;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  .hero.is-success {
+    background: #6746df;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/1021/1021799.png), url(/images/coracao.png);
+    background-position: bottom left, top right;
+    background-attachment:local;
+    background-size: 30%;
+  }
+  .hero .nav, .hero.is-success .nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  input {
+    font-weight: 300;
+  }
+  .file-name {
+    border-color: #a697da;
+    margin-bottom: 10px;
+  }
+  .button {
+    margin-top: 10px;  
+  }
+  p {
+    font-weight: 700;
+  }
+  a {
+    text-decoration: underline; 
+  }

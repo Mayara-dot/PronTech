@@ -1,0 +1,38 @@
+html,body {
+    font-family: 'Open Sans', serif;
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .hero.is-info {
+    background: #6746df;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/1021/1021799.png), url(/images/coracao.png);
+    background-attachment: scroll;
+    background-position: 4% 80%, 98% 80%; 
+    background-size: 150px;
+  }
+  .hero .nav, .hero.is-success .nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    
+  }
+  input {
+    font-weight: 300;
+  }
+  p {
+    font-weight: 700;
+  }
+  a {
+    text-decoration: underline; 
+  }
+  table {
+    width: 100%;
+    margin: auto;
+  }
+  .is-active{
+    font-size: 20px;
+  }
+
+  th, tr{
+    font-size: 18px;
+  }
